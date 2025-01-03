@@ -452,7 +452,7 @@ window.CHARACTER_POOLS = [
   },
   {
     from: '2025-01-01 06:00:00',
-    to: '2024-01-21 17:59:59',
+    to: '2025-01-21 17:59:59',
     five: ['mavuika', 'citlali'],
     four: ['kachina', 'bennett', 'diona'],
   },
@@ -896,6 +896,12 @@ window.WEAPON_POOLS = [
     to: '2024-12-31 14:59:59',
     five: ['tomeoftheeternalflow', 'vortexvanquisher'],
     four: ['favoniussword', 'favoniusgreatsword', 'dragonsbane', 'sacrificialfragments', 'mitternachtswaltz'],
+  },
+  {
+    from: '2025-01-01 06:00:00',
+    to: '2025-01-21 17:59:59',
+    five: ['athousandblazingsuns', 'starcallerswatch'],
+    four: ['lithicblade', 'sacrificialsword', 'favoniuslance', 'favoniuscodex', 'thestringless'],
   },
 ]
 
