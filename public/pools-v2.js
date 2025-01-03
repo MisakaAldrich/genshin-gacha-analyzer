@@ -450,6 +450,12 @@ window.CHARACTER_POOLS = [
     five: ['neuvillette', 'zhongli'],
     four: ['shikanoinheizou', 'fischl', 'yaoyao'],
   },
+  {
+    from: '2025-01-01 06:00:00',
+    to: '2024-01-21 17:59:59',
+    five: ['mavuika', 'citlali'],
+    four: ['kachina', 'bennett', 'diona'],
+  },
 ]
 window.WEAPON_POOLS = [
   {
@@ -912,6 +918,7 @@ window.LOCALES_DATA = {
 		"chevreuse": "夏沃蕾",
 		"chiori": "千织",
 		"chongyun": "重云",
+		"citlali": "茜特菈莉",
 		"clorinde": "克洛琳德",
 		"collei": "柯莱",
 		"cyno": "赛诺",
@@ -947,6 +954,7 @@ window.LOCALES_DATA = {
 		"lumine": "荧",
 		"lynette": "琳妮特",
 		"lyney": "林尼",
+		"mavuika": "玛薇卡",
 		"mika": "米卡",
 		"mona": "莫娜",
 		"mualani": "玛拉妮",
@@ -1191,7 +1199,9 @@ window.LOCALES_DATA = {
 		"wineandsong": "暗巷的酒与诗",
 		"wolffang": "狼牙",
 		"wolfsgravestone": "狼的末路",
-		"xiphosmoonlight": "西福斯的月光"
+		"xiphosmoonlight": "西福斯的月光",
+		"athousandblazingsuns": "焚曜千阳",
+		"starcallerswatch": "祭星者之望"
 	},
 	"ChineseTraditional": {
 		"aether": "空",
@@ -4783,6 +4793,22 @@ window.LOCALES_DATA = {
 	}
 };
 window.DATA_INFO = {
+	"mavuika": {
+		"type": "character",
+		"rarity": 5
+	},
+	"citlali": {
+		"type": "character",
+		"rarity": 5
+	},
+	"athousandblazingsuns": {
+		"type": "weapon",
+		"rarity": 5
+	},
+	"starcallerswatch": {
+		"type": "weapon",
+		"rarity": 5
+	},
 	"aether": {
 		"type": "character",
 		"rarity": 5
